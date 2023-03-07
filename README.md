@@ -9,9 +9,14 @@ This is the client side of the MERN Todo app. It is built with Vite, React, and 
 3. Run `npm run dev` to start the development server
 
 
-### Server url
+### Base API url
 
-change `baseApiUrl` constant on `/src/api/tasks.api.js` file
+You can set the base API url in the `.env` file in the root directory. 
+
+```bash
+VITE_BASE_API_URL='http://localhost:3000'
+```
+
 
 
 
