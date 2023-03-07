@@ -2,6 +2,12 @@
 
 This is the client side of the MERN Todo app. It is built with Vite, React, and Tailwind CSS.
 
+## Demo
+
+You can view the demo [here](https://mern-todo-client-sigma.vercel.app/).
+
+---
+
 ## Installation 
 
 1. Clone the repo
